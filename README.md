@@ -1,2 +1,2 @@
 # hello-world
-to tore ideas, resources, or even share and discuss things with others.
+to store ideas, resources, or even share and discuss things with others.
